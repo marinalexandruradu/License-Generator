@@ -12,3 +12,5 @@ Part 2: We generate a random date in 2021 and convert it to UNIX timestamp
 The application also allows you to generate multiple keys. Just input the number and these will be written in a text file near the executable
 
 ![image](https://user-images.githubusercontent.com/13455334/112224557-1a28c680-8c34-11eb-8ec2-cdc2d2abe870.png)
+
+Disclaimer: This project is only meant for teaching purposes, this is not the most secure way to handle licenses in your installer. Idealy this must be handled from the application itself, not the MSI. Use at your own risk, I will not be held responsible for any "breaches" in your installers.
